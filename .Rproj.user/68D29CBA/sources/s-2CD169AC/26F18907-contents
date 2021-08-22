@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-avatar_image: headshot.png
+avatar_image: headshot.jpg
 bio: My research interests include econometrics, environmental economics and public economics.
 btn:
 - label: Download Resume
