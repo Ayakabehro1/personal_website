@@ -1,0 +1,24 @@
+---
+title: "Finance Dashboard"
+author: "Ayaka Behro"
+date: '2021-05-21'
+tags: ["Finance", "Projects"]
+
+featured: yes
+image:
+  caption: Screenshot
+  focal_point: "smart"
+  preview_only: true
+
+# output:
+#   blogdown::html_page:
+#     toc: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+Starting in May 2021, I began building a Finance Dashboard, which documents daily stock market price data within the last year. You can find the dashboard below, or visit it [here](https://ayakabehro.shinyapps.io/FinanceDashboard/){target="_blank"}. I aim to continue adding to it over the next year. If you have any comments or suggestions, please contact me using the tabs above!
+
+<iframe src ="https://ayakabehro.shinyapps.io/FinanceDashboard/" height=700px width=1100px />

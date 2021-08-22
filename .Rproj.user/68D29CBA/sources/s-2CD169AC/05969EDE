@@ -1,0 +1,26 @@
+{
+    "id": "05969EDE",
+    "path": "C:/Users/USER/Documents/personal_website/config/_default/languages.toml",
+    "project_path": "config/_default/languages.toml",
+    "type": "toml",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1629595601734.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "6,23",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1628397434,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1628397434,
+    "read_only": false,
+    "read_only_alternatives": []
+}
