@@ -44,6 +44,10 @@ subtitle = ""
  css_class = ""
 +++
 
+**Finances of the Nation**
+- [Unpacking the Conservative Party's proposal to boost health transfers to the provinces](https://financesofthenation.ca/2021/08/24/unpacking-the-conservative-partys-proposal-to-boost-health-transfers-to-the-provinces/)
+
+
 **2019 G7 Biarritz Summit Compliance Report: World Trade Organization Reform**    
 Wrote and assigned quantitative score for Japan and Italy.
 
