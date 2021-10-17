@@ -1,0 +1,109 @@
+---
+title: "What is going on with Canada's labour market?"
+author: "Ayaka Behro"
+date: '2021-10-10'
+tags: ["Oct-2021", "Economics", "Labour Market"]
+categories: ["Economics"]
+
+featured: yes
+
+# output:
+#   blogdown::html_page:
+#     toc: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+## **The Post-COVID-19 Labour Market: Establishing the Theoretical Framework**
+
+It isn't new, nor surprising information that the COVID-19 pandemic has had a negative impact on the Canadian labour market. But more recently, news surrounding surmounting job vacancies have been increasing despite a high unemployment rate. So, what is going on? In this article I'm going to explore the impact that the COVID-19 pandemic and the federal government's consequent economic policy instruments have had on Canada's labour market across industries (NAICS). 
+
+Let's start by establishing the theoretical framework: the COVID-19 pandemic has increased the risk of employee health, thereby increasing the personal cost of employment. For those where: $Cost{\scriptsize employment} = Benefit{\scriptsize employment}$ before the pandemic, is now: $Cost{\scriptsize employment} + Cost{\scriptsize COVID} >= Benefit{\scriptsize employment}$.
+
+While the cost of COVID is idiosyncratic in that it depends on one's risk adversity, the severity of the pandemic in the region, or the employee's job market will largely influence the added cost of labour. For example, those with the option to work from home or in a low viral-transmission risk setting will have a lower cost. As a result, employees in the service industry are systematically more prone to the virus, and will have a higher cost. So let's impose the assumption that there is between group variation based on industry:
+
+$Cost{\scriptsize employment} = Cost{\scriptsize Direct} + Cost^I{\scriptsize COVID} + \varepsilon$
+
+Where the direct costs include all economic costs associated with employment (cost of transportation to place of employment, forgone benefit of leisure, etc.), *I* is the Industry of employment and $\varepsilon$ captures idiosyncratic costs.
+
+### The Canadian Government Response
+The Canadian government was admittedly fast to act in [providing economic relief to Canadian citizens in response to the pandemic](https://www.canada.ca/en/department-finance/economic-response-plan.html){target="_blank"}. Providing the Canada Recovery Benefit (CRB - including formerly the CERB), Canada Recovery Sickness Benefit (CRSB), and extended EI for individuals as well as the Canada Emergency Wage Subsidy (CEWS) and Canada Emergency Rent Subsidy (CERS) for employers. These instruments have assisted Canadians unemployed due to the pandemic and employers suffering reduced demand thereby cushioning the unemployment rate and employed individuals in the short run.
+
+Thus for those unemployed due to the pandemic, the net costs of employment are effectively zero, while the benefits (primarily financial compensation) are replaced by government payments. 
+
+What the Canadian government didn't anticipate (or perhaps poorly anticipated), was the long run effects of their policies. For those whose salary are lower than or equal to the government payments, have no financial incentive to return to the labour market.  
+
+  1. The costs associated to returning to a COVID-19 labour market include: $Cost^I{\scriptsize COVID} + \varepsilon$ (assuming that the direct costs are less than or equal to the benefits, therefore will never impact an individual's preference to work outside the pandemic).   
+  2. By returning to the labour market, individuals are reducing the number of hours of leisure they receive (ie. the hours spent for pleasure are being replaced by employment). For now, let's call this an idiosyncratic benefit, since this will also differ from person-to-person.
+  
+Therefore,  
+<center>
+$Benefit{\scriptsize employment} = Wage + COVID Compensation + \varepsilon{\scriptsize benefit}$
+$Cost{\scriptsize employment} = Cost{\scriptsize Direct} + Cost^I{\scriptsize COVID} + \varepsilon{\scriptsize cost}$   
+</center>
+
+<small> Where $\varepsilon{\scriptsize benefit} = \varepsilon{\scriptsize cost}$ and $Wage$ and $COVID Compensation$ are perfect substitutes. </small>
+
+<center>
+$ Benefit{\scriptsize employment} = Cost{\scriptsize employment}$    
+$Wage + COVID Compensation + \varepsilon{\scriptsize benefit} = Cost{\scriptsize Direct} + Cost^I{\scriptsize COVID} + \varepsilon{\scriptsize cost}$   
+$ = Cost^I{\scriptsize COVID}$
+</center>
+
+In my simple theoretical model, there is then a cost to employment that is currently unaddressed and preventing the labour market from operating in equilibrium. Of course, I am no labour economics expert. In fact, it was economists Mikal Skuterund and Brendon Bernard who inspired me to do my own labour market analysis. As such, I acknowledge the fact that my theoretical model may not be holistic, but it provides sufficient backbone onto which I can execute an empirical analysis.
+
+## **So forget the theoretical, what is actually happening?**
+Establishing a theoretical framework is beneficial to establish a basis of how we can *expect* the real world to behave. But what is actually going on?
+
+Recent news has acknowledged a labour shortage in Canada. In a [study by RBC](https://thoughtleadership.rbc.com/are-sky-high-job-vacancies-in-canada-around-for-a-while/){target="_blank"} economist Carrie Freestone wrote:
+
+>“Canada’s vacancy rate reached a record high of 5 per cent, largely due to unfilled positions in accommodation and food services, health care, and retail services,” Royal Bank of Canada economist Carrie Freestone wrote in a new study published Monday.
+
+Freestone later argues that extended lockdowns have led workers in the services sector to leave. Despite higher wages offered, businesses are still facing significant demands. [Global News](https://globalnews.ca/news/8158090/canada-job-shortage-election/){target="_blank"} and the [Financial Post](https://financialpost.com/executive/posthaste-job-vacancies-exceed-800000-in-canadas-labour-starved-services-industries){target="_blank"} have both published articles regarding the excess of job vacancies in the country. Global News argues that this economic condition was the result of the shortage and poorly enforced COVID-19 government income supports. While the Financial Post argues that government income support have reduced the urgency for many to look for jobs.
+
+Nonetheless, both seem to support my theoretical framework. With that established, let's take a look at the data.
+
+## **Examining the Data**
+### Comparing the job vacancy rate and unemployment rate:
+<center><iframe src="https://public.tableau.com/views/LabMarket-Graph/JobVacancyRateandUnemploymentRate?:showVizHome=no&:language=en-US&:display_count=n&:origin=viz_share_link&:embed=true"
+ width="1100" height="550"></iframe></center>    
+
+Using data from Statistics Canada Table [14-10-0372-01](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410037201){target="_blank"} and [14-10-0022-01](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410002201){target="_blank"}, I created the above visualization to compare the monthly job vacancy rate to the unemployment rate by industry. I am using these as proxy measures of labour market demand (the job vacancy rate) and supply (unemployment rate). Therefore in a perfect economy, we expect the job vacancy rate and unemployment rate to equate (ie. all people looking for a job will have a job - ignoring gaps in skill levels required, timing and other anomalies preventing such an phenomenon). 
+
+First examining all employees in the labour force, we see the market behaving as we expect: there are more unemployed seeking employment then there are jobs available in Canada. Although it is concerning that the job vacancy rate in June 2021 is the highest it has been since October 2020 (seasonally unadjusted).
+
+However, focusing on the Accommodation and Food Services [72] sector, we see the industry behaving abnormally. The job vacancy rate is 7.6 percentage points higher than the unemployment rate. This is the largest gap in labour supply / demand of all included NAICS industries. 
+
+The top three industries with the largest gaps are:  
+
+  - Accommodation and Food Services [72] (7.6%)    
+  - Finance, Insurance, Real Estate, Rental and Leasing [52-53] (6.7%)
+  - Business, Building and Other Support Services [55-56] (5.8%)      
+  
+Unfortunately, the two following industries are aggregates and it is harder to determine the cause of imbalance in the market. I hypothesize that the gap in *Finance, Insurance, Real Estate, Rental and Leasing [52-53]* is likely dominated by [53], *Real Estate, Rental and Leasing*, given the rural movement effect from COVID and lack of building leasing in major cities. However, I do not have a plausible explanation for *Business, Building and Other Support Services [55-56]*.
+
+<center><iframe src="https://public.tableau.com/views/LabMarket-BoxandWhiskersPlot/BoxandWhiskersPlot?:showVizHome=no&:language=en-US&:display_count=n&:origin=viz_share_link&:embed=true" width="1100" height="550"></iframe></center>   
+
+Looking at the distribution in average hourly wage rate across NAICS, there appears to be a strong negative correlation between the job vacancy rate and the wage rate. In fact, I calculated the correlation ($\rho$) and received a value of -0.73. Therefore, higher wage rates are associated with lower job vacancy rates. This is expected in the labour market. Interestingly, the industry with the highest gap between the unemployment rate and the job vacancy rate also has the lowest average hourly wage rate across NAICS industries. Although this trend does not continue for the other two industries with the largest gaps, I will focus on NAICS 72.
+
+Assuming that my theoretical COVID environment initially proposed is correct and that my definitions of labour market supply and demand are (somewhat) accurate, the cost to employment outweighs the benefits. I assume that this is both in terms of wages offered and COVID policy instruments. 
+
+## **What's the Solution?**
+Currently, Canadian businesses are suffering from labour shortages, particularly those associated with higher costs due to the pandemic. In my brief analysis I found that, the industry with the highest job vacancy rate also suffers the lowest average hourly wage and happens to be that most directly impacted by COVID-19, *Accomodation and Food Services*. 
+
+I chose to focus on this industry given its media popularity and large effect from COVID. Simply put, the benefits do not outweigh the costs to employment. I believe that there are two effects that are causing this:
+
+  - A substitution effect: people are transitioning to other industries less impacted by COVID-19 and with higher wages.   
+  - CERB/CRB Effect: the benefits to *not* working outweigh that of working due to the CERB/CRB payments collected by the unemployed.
+  
+<small> Assuming that those who retire, return to school or enter the industry job market do not affect these numbers dramatically. </small>
+ 
+This is leading to a vicious cycle where employers have lower demand due to the pandemic and an inability to operate at capacity because of the lack of staff, all leading to an inability to increase wages which would correct the latter problem. The former issue should dissipate in the coming months as vaccine enforcement increases and the threat of the pandemic subside. Therefore, the government should be focusing on the labour supply issue rather than demand going forward.
+
+*Is CERB/CRB the right solution?* I say, no. It was a great policy instrument to offset the economic shock of the pandemic in March 2020, but now is causing higher costs than benefits. The government should strip back the current COVID income-payment related instruments and introduce incentives to start working, particularly in those most affected by COVID. Whether this is enforced as a supply-side or demand-side instrument, I will not get into right now (but possibly in the future... stay tuned). 
+
+  - Supply-side instruments: Credit to increase wages of first-time hires, finance for more employees, more PPE equipments, etc.
+  - Demand-side instruments: Lower the progressive income tax system, negative income tax (although I have not researched the negative effects associated with this)
+
+Either way, the Canadian federal government needs to gravitate away from the COVID-related payments, and towards a system that will lower the costs associated *with* working.

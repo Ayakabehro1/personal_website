@@ -40,4 +40,4 @@ user_groups:
 
 I am a Research Associate at Finances of the Nation and a recent graduate from the University of Toronto, where I completed my Honours Bachelors Degree in Economics and Public Policy. My interests include environmental economics, finance and using applied econometrics to solve economic problems. 
 
-My current goals are to advance my coding and data visualization skills over the next year and expand my knowledge base as an economist by producing work for my Journal. With previous work experience in the Public Sector and Academia, I aim to continue my education by starting my Masters of Economics in the Fall of 2022 at the University of Waterloo and begin my career as a Economist afterwards.
+My current goals are to advance my coding and data visualization skills over the next year and expand my knowledge base as an economist by producing work for my Journal. With previous work experience in the Public Sector and Academia, I aim to continue my education by starting my Masters of Economics in the Fall of 2022 and begin my career as a Economist afterwards.
