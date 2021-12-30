@@ -23,6 +23,36 @@ subtitle = ""
 #   Begin/end multi-line descriptions with `>-`.
 
 [[item]]
+  organization = "Department of Economics, University of Toronto"
+  organization_url = ''
+  title = "Arthur Hosios Scholarship in Economics"
+  url = ''
+#  certificate_url: ''
+  date_start = '2021-12-01'
+  date_end = ''
+  description =  ''
+
+[[item]]
+  organization = "University of Toronto"
+  organization_url = ''
+  title = "President's Entrance Scholarship"
+  url = ''
+#  certificate_url: ''
+  date_start = '2016-09-01'
+  date_end = ''
+  description =  ''
+  
+[[item]]
+  organization = "University College, University of Toronto"
+  organization_url = ''
+  title = "J.S. Mclean Scholarship"
+  url = ''
+#  certificate_url: ''
+  date_start = '2016-09-01'
+  date_end = ''
+  description =  ''
+
+[[item]]
   organization = "Duke of Edinburgh Award"
   organization_url = 'https://www.dukeofed.org/'
   title = "Bronze and Silver Level"

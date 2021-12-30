@@ -45,7 +45,8 @@ subtitle = ""
 +++
 
 **Finances of the Nation**
-- [Unpacking the Conservative Party's proposal to boost health transfers to the provinces (August 24, 2021; cowritten)](https://financesofthenation.ca/2021/08/24/unpacking-the-conservative-partys-proposal-to-boost-health-transfers-to-the-provinces/)
+- [Will Federal Finances Improve This Year?](https://financesofthenation.ca/2021/12/13/federal-finances-monitor/) (December 13, 2021; cowritten)
+- [Unpacking the Conservative Party's proposal to boost health transfers to the provinces](https://financesofthenation.ca/2021/08/24/unpacking-the-conservative-partys-proposal-to-boost-health-transfers-to-the-provinces/) (August 24, 2021; cowritten)
 
 
 **2019 G7 Biarritz Summit Compliance Report: World Trade Organization Reform**    

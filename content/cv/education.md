@@ -26,6 +26,12 @@ date_format = "Jan 2006"
   date_end = "2021-06-01"
   description = """Economics and Public Policy Double Major
   
+  ***Scholarships & Awards***
+  * Department of Economics Arthur Hosios Scholarship in Economics (12/2021) 
+  * University of Toronto President's Entrance Scholarship (09/2016)
+  * University College J.S. Mclean Scholarship (09/2016)
+
+  
   ***Relevant Coursework***:
   * **Economics**: Microeconomic Theory, Macroeconomic Theory, Financial Economics, Environmental Economics, Applied Econometrics (I & II), Forecasting Econometrics, Empirical Financial Economics, Advanced Public Economics
   * **Public Policy**: Role of Government, Introduction to Public Policy, Canadian Politics, Introduction to International Relations
