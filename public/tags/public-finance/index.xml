@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Public Finance on Ayaka Behro</title>
+    <link>https://examplesite.org/tags/public-finance/</link>
+    <description>Recent content in Public Finance on Ayaka Behro</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-ca</language>
+    <copyright>Copyright Ayaka Behro &amp;copy; {year}</copyright>
+    <lastBuildDate>Sat, 19 Feb 2022 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://examplesite.org/tags/public-finance/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How have federal finances changed during the pandemic?</title>
+      <link>https://examplesite.org/post/federal_finances/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/post/federal_finances/</guid>
+      <description>
+&lt;script src=&#34;https://examplesite.org/post/federal_finances/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;Happy 2022! Almost two years into the pandemic has had me, and arguably many other economists, thinking about the fiscal costs of the pandemic to the government – both provincial and federal. A &lt;a href=&#34;https://financesofthenation.ca/2021/11/26/covid-prov-fiscal/&#34; target=&#34;_blank&#34;&gt;recent article written by Trevor Tombe&lt;/a&gt; dove into this topic, investigating provincial finances and explaining why the fiscal burden on provincial governments have been less than the federal government. For obvious reasons, I won’t cover the same topic but will rather focus my attention on how spending by function has changed pre- and post-pandemic for the federal government.&lt;/p&gt;
+&lt;p&gt;Note: read my co-authored paper using forecasting methods to predict whether federal finances will improve next year &lt;a href=&#34;https://financesofthenation.ca/2021/12/13/federal-finances-monitor/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;div id=&#34;overview-how-has-total-spending-changed&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;&lt;strong&gt;Overview: How Has Total Spending Changed?&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;In 2020, the federal government invested over 19 billion to assist provincial and territorial economics during the pandemic through the &lt;a href=&#34;https://www.canada.ca/en/intergovernmental-affairs/services/safe-restart-agreement.html&#34; target=&#34;_blank&#34;&gt;Safe Restart Agreement&lt;/a&gt;. However, this is not reflective of the total direct investment of the government. According to the &lt;a href=&#34;https://budget.gc.ca/efu-meb/2021/report-rapport/chap3-en.html&#34; target=&#34;_blank&#34;&gt;2021 Economic and Fiscal Update&lt;/a&gt;, the federal government spent 346 billion on direct measures against COVID-19, accounting for 80% of total direct COVID spending across the levels of the government. But how about other areas of public spending?&lt;/p&gt;
+&lt;center&gt;
+&lt;strong&gt;Figure 1: Real Federal Government Expenses (2009-2021)&lt;/strong&gt;
+&lt;img src=&#34;fig1.png&#34; width=&#34;1300&#34; height=&#34;600&#34; /&gt;
+&lt;/center&gt;
+&lt;p&gt;Total real federal spending increased 66.6%, from 350 to 583 billion between 2019/20 and 2020/21. Figure 1 illustrates how the components of federal expenses and its total have evolved in 2020/21 compared to previous years and illustrates how substantial spending increased in the first full year of the pandemic. To visualize which components are responsible for the increase in spending between 2019/20 and 2020/21, I generated a waffle chart (figure 2). Each square of the plot represents a 1% change in total federal spending. Over 50% of total spending is due to an increase in social protection spending. Followed by an increase in spending for economic affairs (33%) and health (10%) and several others. In the remainder of my post, I will breakdown the spending of the three major components responsible for the increase in spending into their individual components.&lt;/p&gt;
+&lt;center&gt;
+&lt;strong&gt;Figure 2: Share of Total Percent Change in Federal Expenses by Function (2020-2021)&lt;/strong&gt;
+&lt;img src=&#34;fig2.png&#34; width=&#34;800&#34; height=&#34;600&#34; /&gt;
+&lt;/center&gt;
+&lt;div id=&#34;social-protection&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;&lt;strong&gt;Social Protection&lt;/strong&gt;&lt;/h3&gt;
+&lt;center&gt;
+&lt;strong&gt;Figure 3: Social Protection Spending (2020-2021)&lt;/strong&gt;
+&lt;img src=&#34;fig3.png&#34; width=&#34;1300&#34; height=&#34;600&#34; /&gt;
+&lt;/center&gt;
+&lt;p&gt;Total social protection spending increased from 119.9 to 241.1 billion (+101%) between 2019/20 and 2020/21. This raise in spending is predominantly driven by an increase in spending for unemployment, which rose over eight-fold (12 to 115 billion). This is likely driven by the income-support payments the federal government distributed to the provinces during the pandemic. According to &lt;a href=&#34;https://www.canada.ca/en/services/benefits/ei/claims-report.html&#34; target=&#34;_blank&#34;&gt;Statistics Canada&lt;/a&gt;, between March 15 and October 3, 2020, the Canada Emergency Response Benefit (CERB) and EI benefits accrued a total value of $81.6 billion. This accounts for 71% of unemployment spending in 2020/21. Other components of social protection spending include Old Age Security, family benefits and disability payments – although these components did not witness an increase in spending parallel to unemployment in 2020/21 due to the pandemic.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;economic-affairs&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;&lt;strong&gt;Economic Affairs&lt;/strong&gt;&lt;/h3&gt;
+&lt;center&gt;
+&lt;strong&gt;Figure 4: Economic Affairs Spending (2020-2021)&lt;/strong&gt;
+&lt;img src=&#34;fig4.png&#34; width=&#34;1300&#34; height=&#34;600&#34; /&gt;
+&lt;/center&gt;
+&lt;p&gt;Between 2019/20 and 2020/21, real total economic affairs spending increased from 25.7 to 103.3 billion (302%). This sector includes expenses to agriculture, energy, mining, transport and other economic affairs. However, the sector largely responsible for the increase in total economic affairs spending is general economic, commercial, and labour affairs. This is likely driven by other federal COVID support payments not captured in social protection, primarily, the Canada Emergency Wage Subsidy (CEWS). The &lt;a href=&#34;https://www.canada.ca/en/revenue-agency/services/wage-rent-subsidies/emergency-wage-subsidy/cews-statistics.html&#34; target=&#34;_blank&#34;&gt;current dollar value of approved subsidies from CEWS&lt;/a&gt; stands at 100 billion from March 2020 – February 2022. I guesstimate that ~75 billion was accrued during 2020/21. Other components of economic affairs remain largely unchanged.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;health&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;&lt;strong&gt;Health&lt;/strong&gt;&lt;/h3&gt;
+&lt;center&gt;
+&lt;strong&gt;Figure 5: Health Spending (2020-2021)&lt;/strong&gt;
+&lt;img src=&#34;fig5.png&#34; width=&#34;1300&#34; height=&#34;600&#34; /&gt;
+&lt;/center&gt;
+&lt;p&gt;Despite the health sector being the primary category of interest during the pandemic, the sector only saw a 48% increase from 46 to 68.3 billion between 2019/20 and 2020/21. While this is a sizable increase, it is relatively small compared to the aforementioned sectors. Why? Simply because health spending is distributed at the provincial level. While provinces receive federal support on health expenses through the Canada Health Transfer (CHT), the amount of the transfer did not increase on account of the pandemic during 2020/21. As such, it is unclear what is driving the increase in health spending given the vague Statistics Canada classification. Although I will not address it in this quick website article, I urge anyone interested in health spending to use CIHI’s databases, which share great insight into Canadian health spending. Otherwise, public health service spending increased from 0.5 to 5.1 billion between 2019/20 and 2020/21. This increase is likely attributable to the pandemic.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;what-about-the-other-sectors-with-increased-spending&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;&lt;strong&gt;What about the other sectors with increased spending?&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Although I focused on the top sectors responsible for the increase in total federal spending during the pandemic, there are explanations for increased expenses for defense and education provided by &lt;a href=&#34;https://www150.statcan.gc.ca/n1/daily-quotidien/211126/dq211126a-eng.htm&#34; target=&#34;_blank&#34;&gt;Statistics Canada&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Defense&lt;/em&gt;&lt;br /&gt;
+The defense sector witnessed a 25% increase from 18.5 to 23.2 billion due to an agreement reached in 2018 with the Canadian Armed Forces for a lump-sum pay increase.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Education&lt;/em&gt;&lt;br /&gt;
+The education sector witnessed a 22% increase from 8 to 9.7 billion as a result of increased funding to Canada Student Grant amounts to assist students during the pandemic.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;considerations-for-the-future&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;&lt;strong&gt;Considerations for the future&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;In this short journal article, I set out to investigate and summarize how federal public finances have evolved during the pandemic. While it was unveiled that the majority of increased spending is driven by the Social Protection, Economic Affairs and Health sectors’, are these temporary or lasting changes?&lt;/p&gt;
+&lt;p&gt;In my opinion, these changes are temporary. The increases to Social Protection and Economic Affairs are driven by COVID income-support payments that the federal government provided. It is important to note these payments are taxable as well and will provide revenue back to the provinces and federal government. The majority of these programs have subsided, or at the very least diminished in dollar-value, over the period of the pandemic. With Canadian governments loosening COVID restrictions, I suspect the pandemic, and pandemic support programs, will subside next year. Where my conclusions muddle is in accounting for increased health spending. The increase in federal health spending in 2020/21 remains a mystery to me. Whether this is due to increased COVID support, or otherwise, I cannot determine with this dataset. Although I suspect these are temporary effects, I will have to analyze CIHI data to legitimize these conclusions.&lt;/p&gt;
+&lt;p&gt;Therefore while 2020/21 was a year of substantial financial costs to the government, it was a largely a temporary one.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

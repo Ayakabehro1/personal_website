@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life on Ayaka Behro</title>
+    <link>https://examplesite.org/tags/life/</link>
+    <description>Recent content in Life on Ayaka Behro</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-ca</language>
+    <copyright>Copyright Ayaka Behro &amp;copy; {year}</copyright>
+    <lastBuildDate>Fri, 20 Aug 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://examplesite.org/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello and Welcome!</title>
+      <link>https://examplesite.org/post/first_post/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/post/first_post/</guid>
+      <description>
+&lt;script src=&#34;https://examplesite.org/post/first_post/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;finally-creating-my-own-site&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Finally creating my own site!&lt;/h2&gt;
+&lt;p&gt;After almost a year of deciding to create a personal website, it has finally come to fruition! After many months of playing around with various website generator platforms (notably Wordpress and Squarespace), I decided to do a 180 and use &lt;code&gt;R Blogdown&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;There are several reasons for this:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Money&lt;/strong&gt;: most website generator platforms cost between &lt;a href=&#34;https://www.websitebuilderexpert.com/building-websites/how-much-should-a-website-cost/&#34; target=&#34;_blank&#34;&gt;$6-50 per month&lt;/a&gt; (for a basic subscription). As a (sort of) student, I want to cut costs where I can.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Skill&lt;/strong&gt;: While I am currently learning how to code HTML (slowly), I am nowhere near the skill necessary to code an entire personal website. That said, while I’m no HTML wiz, I do consider myself quite the R wizard. With a bit of research, a lot of patience and some learning I was able to put together this website. &lt;small&gt; (with many thanks to the various R forums and tutorials on the internet) &lt;/small&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Practicality&lt;/strong&gt;: For the foreseeable future, I plan to be in the field of economic research or applied economics. After seeing many of my mentors and fellow economists develop similar websites, I wanted a platform suitable for research and academia Low and behold, the &lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34;&gt;Hugo Academic&lt;/a&gt; theme! I found many website platforms catered to website platforms for companies and online shops, which is unfortunately unideal for my circumstances.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As I continue developing my programming skills and contribute more to my website, I hope to refine certain elements and customize my site further. Which leads me to my next topic, &lt;em&gt;what is this site for&lt;/em&gt;?&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;using-this-website-to-share-my-research-projects-and-day-to-day-life.&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Using this website to share my research, projects, and day-to-day life.&lt;/h2&gt;
+&lt;p&gt;As a young economist and professional, I want a platform where I can share my research and interests with fellow economists and friends. That said, I am currently at a point in my career where I am exploring fields, economic areas and interests. Having completed my degree from UofT this year, I now have no such setting to “take courses” and learn new material. Therefore, I am taking it into my own hands and using this platform to share new research I develop and, admittedly, hold myself accountable.&lt;/p&gt;
+&lt;p&gt;My goal is to create a new journal posts &lt;em&gt;at least&lt;/em&gt; bi-weekly regarding either personal reflection, economic research or an op-ed on current topics.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -18,6 +18,21 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Masters of Arts"
+  company = "University of Waterloo"
+  company_url = ""
+  location = "Waterloo, Ontario, Canada"
+  date_start = "2022-09-01"
+  date_end = "2023-06-01"
+  description = """Masters of Arts in Economics
+  
+  ***Scholarships & Awards***
+  * Economics Graduate Scholarship (09/2022)
+
+   """
+
+
+[[experience]]
   title = "Honours Bachelor of Arts"
   company = "University of Toronto"
   company_url = ""

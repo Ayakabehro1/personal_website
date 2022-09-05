@@ -17,13 +17,28 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Teaching Assistant"
+  company = "University of Waterloo"
+  company_url = ""
+  location = "Waterloo, Ontario, Canada"
+  date_start = "2022-09-07"
+  date_end = ""
+  description = """
+
+  * Teaching Assistant for the University of Waterloo (UW) undergraduate course ECON323 *Econometrics 2*.
+  * Assist course instructor in managing the evaluation of course assignments and development of feedback.
+  * Provide the professor with feedback related to student performance.
+  """
+
 [[experience]]
   title = "Research Associate"
   company = "Finances of the Nation"
   company_url = "https://financesofthenation.ca/"
   location = "Toronto, Ontario, Canada"
   date_start = "2021-07-15"
-  date_end = ""
+  date_end = "2022-07-15"
   description = """
 
   * Manage all back-end data management and data visualization user-interface.

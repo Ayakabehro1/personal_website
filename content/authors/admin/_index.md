@@ -4,15 +4,18 @@ authors:
 avatar_image: headshot.jpg
 bio: My research interests include econometrics, environmental economics and public economics.
 btn:
-- label: Download Resume
+- label: Download Resume (as of July 2022)
   url: https://drive.google.com/file/d/1qOFUQNYmF-XHS8rUU-I4wbvAzmsK_TRf/view?usp=sharing
 display_education: true
 education:
   courses:
+  - course: Masters of Arts in Economics
+    institution: University of Waterloo
+    year: 2023
   - course: Honours Bachelor of Arts (Economics & Public Policy)
     institution: University of Toronto
     year: 2021
-email: "ayaka.behro@mail.utoronto.ca"
+email: "abehro@uwaterloo.ca"
 interests:
 - Econometrics & Data Analysis
 - Environmental Economics
@@ -38,6 +41,6 @@ user_groups:
 - Visitors
 ---
 
-I am a Research Associate at Finances of the Nation and a recent graduate from the University of Toronto, where I completed my Honours Bachelors Degree in Economics and Public Policy. My interests include environmental economics, finance and using applied econometrics to solve economic problems. 
+I am a Masters student at the University of Waterloo studying economics. Prior to my Masters education, I spent several years in the field working as a Research Associate in academia and as a Economic Advisor for the Ontario Public Service. Having experience in my field, I have gained experience in applying my undergraduate economics education to practice and have narrowed my career aspirations. My goal is to finish my Masters degree in June 2023 and enter the field of economic consulting or economic policy research.
 
-My current goals are to advance my coding and data visualization skills over the next year and expand my knowledge base as an economist by producing work for my Journal. With previous work experience in the Public Sector and Academia, I aim to continue my education by starting my Masters of Economics in the Fall of 2022 and begin my career as a Economist afterwards.
+This website encompasses my resume (available in both PDF and HTML format), my interests which are illustrated in my Journal, and my publications. In my free time, I hope to contribute more to my Journal and finalize projects which are currently in the works. Please feel free to reach out to me via email, twitter or linkedin.

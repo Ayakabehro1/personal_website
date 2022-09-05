@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Ayaka Behro</title>
+    <link>https://examplesite.org/tags/</link>
+    <description>Recent content in Tags on Ayaka Behro</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-ca</language>
+    <copyright>Copyright Ayaka Behro &amp;copy; {year}</copyright>
+    <lastBuildDate>Sat, 19 Feb 2022 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://examplesite.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Economics</title>
+      <link>https://examplesite.org/tags/economics/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/tags/economics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feb-2022</title>
+      <link>https://examplesite.org/tags/feb-2022/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/tags/feb-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public Finance</title>
+      <link>https://examplesite.org/tags/public-finance/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/tags/public-finance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Labour Market</title>
+      <link>https://examplesite.org/tags/labour-market/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/tags/labour-market/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oct-2021</title>
+      <link>https://examplesite.org/tags/oct-2021/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/tags/oct-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aug-2021</title>
+      <link>https://examplesite.org/tags/aug-2021/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/tags/aug-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>https://examplesite.org/tags/life/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/tags/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finance</title>
+      <link>https://examplesite.org/tags/finance/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/tags/finance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://examplesite.org/tags/projects/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/tags/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Source Themes</title>
+      <link>https://examplesite.org/tags/source-themes/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/tags/source-themes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

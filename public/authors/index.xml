@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Ayaka Behro</title>
+    <link>https://examplesite.org/authors/</link>
+    <description>Recent content in Authors on Ayaka Behro</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-ca</language>
+    <copyright>Copyright Ayaka Behro &amp;copy; {year}</copyright>
+    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://examplesite.org/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://examplesite.org/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/authors/admin/</guid>
+      <description>&lt;p&gt;I am a Research Associate at Finances of the Nation and a recent graduate from the University of Toronto, where I completed my Honours Bachelors Degree in Economics and Public Policy. My interests include environmental economics, finance and using applied econometrics to solve economic problems.&lt;/p&gt;
+&lt;p&gt;My current goals are to advance my coding and data visualization skills over the next year and expand my knowledge base as an economist by producing work for my Journal. With previous work experience in the Public Sector and Academia, I aim to continue my education by starting my Masters of Economics in the Fall of 2022 and begin my career as a Economist afterwards.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>https://examplesite.org/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

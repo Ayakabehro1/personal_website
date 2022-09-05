@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Papers on Ayaka Behro</title>
+    <link>https://examplesite.org/papers/</link>
+    <description>Recent content in Papers on Ayaka Behro</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-ca</language>
+    <copyright>Copyright Ayaka Behro &amp;copy; {year}</copyright>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://examplesite.org/papers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Published Papers</title>
+      <link>https://examplesite.org/papers/published/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/papers/published/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Finances of the Nation&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://financesofthenation.ca/2021/12/13/federal-finances-monitor/&#34;&gt;Will Federal Finances Improve This Year?&lt;/a&gt; (December 13, 2021; cowritten)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://financesofthenation.ca/2021/08/24/unpacking-the-conservative-partys-proposal-to-boost-health-transfers-to-the-provinces/&#34;&gt;Unpacking the Conservative Party&amp;rsquo;s proposal to boost health transfers to the provinces&lt;/a&gt; (August 24, 2021; cowritten)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2019 G7 Biarritz Summit Compliance Report: World Trade Organization Reform&lt;/strong&gt; &lt;br&gt;
+Wrote and assigned quantitative score for Japan and Italy.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.g7.utoronto.ca/evaluations/2019compliance-interim/14-2019-G7-interim-compliance-WTO.pdf&#34;&gt;First Interim Report (March 15, 2020)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.g7.utoronto.ca/evaluations/2019compliance-interim-2/14-2019-G7-2nd-interim-compliance-WTO.pdf&#34;&gt;Second Interim Report (June 21, 2020)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Published Papers</title>
+      <link>https://examplesite.org/papers/test/published/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/papers/test/published/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;2019 G7 Biarritz Summit Compliance Report: World Trade Organization Reform&lt;/strong&gt; &lt;br&gt;
+Wrote and assigned quantitative score for Japan and Italy.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.g7.utoronto.ca/evaluations/2019compliance-interim/14-2019-G7-interim-compliance-WTO.pdf&#34;&gt;First Interim Report (March 15, 2020)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.g7.utoronto.ca/evaluations/2019compliance-interim-2/14-2019-G7-2nd-interim-compliance-WTO.pdf&#34;&gt;Second Interim Report (June 21, 2020)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate Papers</title>
+      <link>https://examplesite.org/papers/test2/undergrad/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/papers/test2/undergrad/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Economic Papers:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/195JzB2fveMj8v_ULMNINdbkk5RtGpCq6/view?usp=sharing&#34;&gt;Investigating the Relationship between Board Structure and CEO Compensation&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Course&lt;/strong&gt;: Empirical Financial Economics (Professor Peter Cziraki, Fall 2020)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Details&lt;/strong&gt;:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate Papers</title>
+      <link>https://examplesite.org/papers/undergrad/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/papers/undergrad/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Economic Papers:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1SOp_1ZeqNNRR4zo8H3UnApr1_DLrObaV/view?usp=sharing&#34;&gt;Bulls and Bears Surfing the Web: Investigating the Effect of Reddit Sentiment on Stock Performance&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Course&lt;/strong&gt;: ECO475 - Applied Econometrics II (Professor Yuanyuan Wan, Winter 2021)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Summary&lt;/strong&gt;: This paper is co-written with Gabrielle Carelli Yamamoto and Sumit Somani and investigates the relationship between Reddit sentiment and stock returns using a generated daily Reddit sentiment index and daily stock returns for a synthetic Dow Jones Industrial Index from 2016-2019. Using an vector autoregressive model (VAR), Granger causality, an impulse response function and an event study, we find evidence supportive of the existence of a relationship between Reddit sentiment and stock performance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/195JzB2fveMj8v_ULMNINdbkk5RtGpCq6/view?usp=sharing&#34;&gt;Investigating the Relationship between Board Structure and CEO Compensation&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Course&lt;/strong&gt;: ECO464 - Empirical Financial Economics (Professor Peter Cziraki, Fall 2020)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Summary&lt;/strong&gt;: This paper poses the question: &lt;em&gt;does board structure affect CEO compensation?&lt;/em&gt; Under the framework of the agency theory and managerial power theory, the paper hypothesizes that there is a relationship between board structure and CEO compensation such that mechanisms that enable boards to operate at an arms-length will reduce CEO compensation. The paper uses a differences-and-differences methodology to test the hypothesis, finding insignificant results. Due to the inconclusiveness in the academic literature, the paper argues that the nature of the relationship between board structure and CEO compensation is not concretely understood.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Policy Papers&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1gaoPldrIn3NSqx0QDxhwgL-8EQMDwNnV/view?usp=sharing&#34;&gt;Tent Cities: A Negative Externality Calling Public and Government Attention to the Growing Homelessness Problem in Victoria, BC&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Course&lt;/strong&gt;: PPG401 - The Role of Government (Professor Mel Cappe and Professor Bob Rae, Winter 2020)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Summary&lt;/strong&gt;: This paper investigates the homelessness and &amp;lsquo;tent city&amp;rsquo; issue in Victoria, BC (up to and not including the events following the COVID-19 pandemic). The paper summarizes the evolution of homelessness and &amp;lsquo;tent city&amp;rsquo; from 2008-2020, current policies and proposes short- and long-term policy solutions at the municipal and provincial level.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

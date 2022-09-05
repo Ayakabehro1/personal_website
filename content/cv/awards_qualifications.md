@@ -23,6 +23,16 @@ subtitle = ""
 #   Begin/end multi-line descriptions with `>-`.
 
 [[item]]
+  organization = "Department of Economics, University of Waterloo"
+  organization_url = ''
+  title = "Economics Graduate Scholarship"
+  url = ''
+#  certificate_url: ''
+  date_start = '2022-09-01'
+  date_end = ''
+  description =  ''
+
+[[item]]
   organization = "Department of Economics, University of Toronto"
   organization_url = ''
   title = "Arthur Hosios Scholarship in Economics"

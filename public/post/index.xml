@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journal on Ayaka Behro</title>
+    <link>https://examplesite.org/post/</link>
+    <description>Recent content in Journal on Ayaka Behro</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-ca</language>
+    <copyright>Copyright Ayaka Behro &amp;copy; {year}</copyright>
+    <lastBuildDate>Sat, 19 Feb 2022 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://examplesite.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How have federal finances changed during the pandemic?</title>
+      <link>https://examplesite.org/post/federal_finances/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/post/federal_finances/</guid>
+      <description>
+&lt;script src=&#34;https://examplesite.org/post/federal_finances/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;Happy 2022! Almost two years into the pandemic has had me, and arguably many other economists, thinking about the fiscal costs of the pandemic to the government – both provincial and federal. A &lt;a href=&#34;https://financesofthenation.ca/2021/11/26/covid-prov-fiscal/&#34; target=&#34;_blank&#34;&gt;recent article written by Trevor Tombe&lt;/a&gt; dove into this topic, investigating provincial finances and explaining why the fiscal burden on provincial governments have been less than the federal government. For obvious reasons, I won’t cover the same topic but will rather focus my attention on how spending by function has changed pre- and post-pandemic for the federal government.&lt;/p&gt;
+&lt;p&gt;Note: read my co-authored paper using forecasting methods to predict whether federal finances will improve next year &lt;a href=&#34;https://financesofthenation.ca/2021/12/13/federal-finances-monitor/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;div id=&#34;overview-how-has-total-spending-changed&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;&lt;strong&gt;Overview: How Has Total Spending Changed?&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;In 2020, the federal government invested over 19 billion to assist provincial and territorial economics during the pandemic through the &lt;a href=&#34;https://www.canada.ca/en/intergovernmental-affairs/services/safe-restart-agreement.html&#34; target=&#34;_blank&#34;&gt;Safe Restart Agreement&lt;/a&gt;. However, this is not reflective of the total direct investment of the government. According to the &lt;a href=&#34;https://budget.gc.ca/efu-meb/2021/report-rapport/chap3-en.html&#34; target=&#34;_blank&#34;&gt;2021 Economic and Fiscal Update&lt;/a&gt;, the federal government spent 346 billion on direct measures against COVID-19, accounting for 80% of total direct COVID spending across the levels of the government. But how about other areas of public spending?&lt;/p&gt;
+&lt;center&gt;
+&lt;strong&gt;Figure 1: Real Federal Government Expenses (2009-2021)&lt;/strong&gt;
+&lt;img src=&#34;fig1.png&#34; width=&#34;1300&#34; height=&#34;600&#34; /&gt;
+&lt;/center&gt;
+&lt;p&gt;Total real federal spending increased 66.6%, from 350 to 583 billion between 2019/20 and 2020/21. Figure 1 illustrates how the components of federal expenses and its total have evolved in 2020/21 compared to previous years and illustrates how substantial spending increased in the first full year of the pandemic. To visualize which components are responsible for the increase in spending between 2019/20 and 2020/21, I generated a waffle chart (figure 2). Each square of the plot represents a 1% change in total federal spending. Over 50% of total spending is due to an increase in social protection spending. Followed by an increase in spending for economic affairs (33%) and health (10%) and several others. In the remainder of my post, I will breakdown the spending of the three major components responsible for the increase in spending into their individual components.&lt;/p&gt;
+&lt;center&gt;
+&lt;strong&gt;Figure 2: Share of Total Percent Change in Federal Expenses by Function (2020-2021)&lt;/strong&gt;
+&lt;img src=&#34;fig2.png&#34; width=&#34;800&#34; height=&#34;600&#34; /&gt;
+&lt;/center&gt;
+&lt;div id=&#34;social-protection&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;&lt;strong&gt;Social Protection&lt;/strong&gt;&lt;/h3&gt;
+&lt;center&gt;
+&lt;strong&gt;Figure 3: Social Protection Spending (2020-2021)&lt;/strong&gt;
+&lt;img src=&#34;fig3.png&#34; width=&#34;1300&#34; height=&#34;600&#34; /&gt;
+&lt;/center&gt;
+&lt;p&gt;Total social protection spending increased from 119.9 to 241.1 billion (+101%) between 2019/20 and 2020/21. This raise in spending is predominantly driven by an increase in spending for unemployment, which rose over eight-fold (12 to 115 billion). This is likely driven by the income-support payments the federal government distributed to the provinces during the pandemic. According to &lt;a href=&#34;https://www.canada.ca/en/services/benefits/ei/claims-report.html&#34; target=&#34;_blank&#34;&gt;Statistics Canada&lt;/a&gt;, between March 15 and October 3, 2020, the Canada Emergency Response Benefit (CERB) and EI benefits accrued a total value of $81.6 billion. This accounts for 71% of unemployment spending in 2020/21. Other components of social protection spending include Old Age Security, family benefits and disability payments – although these components did not witness an increase in spending parallel to unemployment in 2020/21 due to the pandemic.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;economic-affairs&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;&lt;strong&gt;Economic Affairs&lt;/strong&gt;&lt;/h3&gt;
+&lt;center&gt;
+&lt;strong&gt;Figure 4: Economic Affairs Spending (2020-2021)&lt;/strong&gt;
+&lt;img src=&#34;fig4.png&#34; width=&#34;1300&#34; height=&#34;600&#34; /&gt;
+&lt;/center&gt;
+&lt;p&gt;Between 2019/20 and 2020/21, real total economic affairs spending increased from 25.7 to 103.3 billion (302%). This sector includes expenses to agriculture, energy, mining, transport and other economic affairs. However, the sector largely responsible for the increase in total economic affairs spending is general economic, commercial, and labour affairs. This is likely driven by other federal COVID support payments not captured in social protection, primarily, the Canada Emergency Wage Subsidy (CEWS). The &lt;a href=&#34;https://www.canada.ca/en/revenue-agency/services/wage-rent-subsidies/emergency-wage-subsidy/cews-statistics.html&#34; target=&#34;_blank&#34;&gt;current dollar value of approved subsidies from CEWS&lt;/a&gt; stands at 100 billion from March 2020 – February 2022. I guesstimate that ~75 billion was accrued during 2020/21. Other components of economic affairs remain largely unchanged.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;health&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;&lt;strong&gt;Health&lt;/strong&gt;&lt;/h3&gt;
+&lt;center&gt;
+&lt;strong&gt;Figure 5: Health Spending (2020-2021)&lt;/strong&gt;
+&lt;img src=&#34;fig5.png&#34; width=&#34;1300&#34; height=&#34;600&#34; /&gt;
+&lt;/center&gt;
+&lt;p&gt;Despite the health sector being the primary category of interest during the pandemic, the sector only saw a 48% increase from 46 to 68.3 billion between 2019/20 and 2020/21. While this is a sizable increase, it is relatively small compared to the aforementioned sectors. Why? Simply because health spending is distributed at the provincial level. While provinces receive federal support on health expenses through the Canada Health Transfer (CHT), the amount of the transfer did not increase on account of the pandemic during 2020/21. As such, it is unclear what is driving the increase in health spending given the vague Statistics Canada classification. Although I will not address it in this quick website article, I urge anyone interested in health spending to use CIHI’s databases, which share great insight into Canadian health spending. Otherwise, public health service spending increased from 0.5 to 5.1 billion between 2019/20 and 2020/21. This increase is likely attributable to the pandemic.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;what-about-the-other-sectors-with-increased-spending&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;&lt;strong&gt;What about the other sectors with increased spending?&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Although I focused on the top sectors responsible for the increase in total federal spending during the pandemic, there are explanations for increased expenses for defense and education provided by &lt;a href=&#34;https://www150.statcan.gc.ca/n1/daily-quotidien/211126/dq211126a-eng.htm&#34; target=&#34;_blank&#34;&gt;Statistics Canada&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Defense&lt;/em&gt;&lt;br /&gt;
+The defense sector witnessed a 25% increase from 18.5 to 23.2 billion due to an agreement reached in 2018 with the Canadian Armed Forces for a lump-sum pay increase.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Education&lt;/em&gt;&lt;br /&gt;
+The education sector witnessed a 22% increase from 8 to 9.7 billion as a result of increased funding to Canada Student Grant amounts to assist students during the pandemic.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;considerations-for-the-future&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;&lt;strong&gt;Considerations for the future&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;In this short journal article, I set out to investigate and summarize how federal public finances have evolved during the pandemic. While it was unveiled that the majority of increased spending is driven by the Social Protection, Economic Affairs and Health sectors’, are these temporary or lasting changes?&lt;/p&gt;
+&lt;p&gt;In my opinion, these changes are temporary. The increases to Social Protection and Economic Affairs are driven by COVID income-support payments that the federal government provided. It is important to note these payments are taxable as well and will provide revenue back to the provinces and federal government. The majority of these programs have subsided, or at the very least diminished in dollar-value, over the period of the pandemic. With Canadian governments loosening COVID restrictions, I suspect the pandemic, and pandemic support programs, will subside next year. Where my conclusions muddle is in accounting for increased health spending. The increase in federal health spending in 2020/21 remains a mystery to me. Whether this is due to increased COVID support, or otherwise, I cannot determine with this dataset. Although I suspect these are temporary effects, I will have to analyze CIHI data to legitimize these conclusions.&lt;/p&gt;
+&lt;p&gt;Therefore while 2020/21 was a year of substantial financial costs to the government, it was a largely a temporary one.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What is going on with Canada&#39;s labour market?</title>
+      <link>https://examplesite.org/post/labour_market_post/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/post/labour_market_post/</guid>
+      <description>
+&lt;script src=&#34;https://examplesite.org/post/labour_market_post/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;the-post-covid-19-labour-market-establishing-the-theoretical-framework&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;&lt;strong&gt;The Post-COVID-19 Labour Market: Establishing the Theoretical Framework&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;It isn’t new, nor surprising information that the COVID-19 pandemic has had a negative impact on the Canadian labour market. But more recently, news surrounding surmounting job vacancies have been increasing despite a high unemployment rate. So, what is going on? In this article I’m going to explore the impact that the COVID-19 pandemic and the federal government’s consequent economic policy instruments have had on Canada’s labour market across industries (NAICS).&lt;/p&gt;
+&lt;p&gt;Let’s start by establishing the theoretical framework: the COVID-19 pandemic has increased the risk of employee health, thereby increasing the personal cost of employment. For those where: &lt;span class=&#34;math inline&#34;&gt;\(Cost{\scriptsize employment} = Benefit{\scriptsize employment}\)&lt;/span&gt; before the pandemic, is now: &lt;span class=&#34;math inline&#34;&gt;\(Cost{\scriptsize employment} + Cost{\scriptsize COVID} &amp;gt;= Benefit{\scriptsize employment}\)&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;While the cost of COVID is idiosyncratic in that it depends on one’s risk adversity, the severity of the pandemic in the region, or the employee’s job market will largely influence the added cost of labour. For example, those with the option to work from home or in a low viral-transmission risk setting will have a lower cost. As a result, employees in the service industry are systematically more prone to the virus, and will have a higher cost. So let’s impose the assumption that there is between group variation based on industry:&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;math inline&#34;&gt;\(Cost{\scriptsize employment} = Cost{\scriptsize Direct} + Cost^I{\scriptsize COVID} + \varepsilon\)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Where the direct costs include all economic costs associated with employment (cost of transportation to place of employment, forgone benefit of leisure, etc.), &lt;em&gt;I&lt;/em&gt; is the Industry of employment and &lt;span class=&#34;math inline&#34;&gt;\(\varepsilon\)&lt;/span&gt; captures idiosyncratic costs.&lt;/p&gt;
+&lt;div id=&#34;the-canadian-government-response&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;The Canadian Government Response&lt;/h3&gt;
+&lt;p&gt;The Canadian government was admittedly fast to act in &lt;a href=&#34;https://www.canada.ca/en/department-finance/economic-response-plan.html&#34; target=&#34;_blank&#34;&gt;providing economic relief to Canadian citizens in response to the pandemic&lt;/a&gt;. Providing the Canada Recovery Benefit (CRB - including formerly the CERB), Canada Recovery Sickness Benefit (CRSB), and extended EI for individuals as well as the Canada Emergency Wage Subsidy (CEWS) and Canada Emergency Rent Subsidy (CERS) for employers. These instruments have assisted Canadians unemployed due to the pandemic and employers suffering reduced demand thereby cushioning the unemployment rate and employed individuals in the short run.&lt;/p&gt;
+&lt;p&gt;Thus for those unemployed due to the pandemic, the net costs of employment are effectively zero, while the benefits (primarily financial compensation) are replaced by government payments.&lt;/p&gt;
+&lt;p&gt;What the Canadian government didn’t anticipate (or perhaps poorly anticipated), was the long run effects of their policies. For those whose salary are lower than or equal to the government payments, have no financial incentive to return to the labour market.&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;The costs associated to returning to a COVID-19 labour market include: &lt;span class=&#34;math inline&#34;&gt;\(Cost^I{\scriptsize COVID} + \varepsilon\)&lt;/span&gt; (assuming that the direct costs are less than or equal to the benefits, therefore will never impact an individual’s preference to work outside the pandemic).&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;By returning to the labour market, individuals are reducing the number of hours of leisure they receive (ie. the hours spent for pleasure are being replaced by employment). For now, let’s call this an idiosyncratic benefit, since this will also differ from person-to-person.&lt;/li&gt;
+&lt;/ol&gt;
+Therefore,&lt;br /&gt;
+
+&lt;center&gt;
+&lt;span class=&#34;math inline&#34;&gt;\(Benefit{\scriptsize employment} = Wage + COVID Compensation + \varepsilon{\scriptsize benefit}\)&lt;/span&gt;
+&lt;span class=&#34;math inline&#34;&gt;\(Cost{\scriptsize employment} = Cost{\scriptsize Direct} + Cost^I{\scriptsize COVID} + \varepsilon{\scriptsize cost}\)&lt;/span&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;small&gt; Where &lt;span class=&#34;math inline&#34;&gt;\(\varepsilon{\scriptsize benefit} = \varepsilon{\scriptsize cost}\)&lt;/span&gt; and &lt;span class=&#34;math inline&#34;&gt;\(Wage\)&lt;/span&gt; and &lt;span class=&#34;math inline&#34;&gt;\(COVID Compensation\)&lt;/span&gt; are perfect substitutes. &lt;/small&gt;&lt;/p&gt;
+&lt;center&gt;
+$ Benefit{employment} = Cost{employment}$&lt;br /&gt;
+&lt;span class=&#34;math inline&#34;&gt;\(Wage + COVID Compensation + \varepsilon{\scriptsize benefit} = Cost{\scriptsize Direct} + Cost^I{\scriptsize COVID} + \varepsilon{\scriptsize cost}\)&lt;/span&gt;&lt;br /&gt;
+$ = Cost^I{COVID}$
+&lt;/center&gt;
+&lt;p&gt;In my simple theoretical model, there is then a cost to employment that is currently unaddressed and preventing the labour market from operating in equilibrium. Of course, I am no labour economics expert. In fact, it was economists Mikal Skuterund and Brendon Bernard who inspired me to do my own labour market analysis. As such, I acknowledge the fact that my theoretical model may not be holistic, but it provides sufficient backbone onto which I can execute an empirical analysis.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;so-forget-the-theoretical-what-is-actually-happening&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;&lt;strong&gt;So forget the theoretical, what is actually happening?&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Establishing a theoretical framework is beneficial to establish a basis of how we can &lt;em&gt;expect&lt;/em&gt; the real world to behave. But what is actually going on?&lt;/p&gt;
+&lt;p&gt;Recent news has acknowledged a labour shortage in Canada. In a &lt;a href=&#34;https://thoughtleadership.rbc.com/are-sky-high-job-vacancies-in-canada-around-for-a-while/&#34; target=&#34;_blank&#34;&gt;study by RBC&lt;/a&gt; economist Carrie Freestone wrote:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Canada’s vacancy rate reached a record high of 5 per cent, largely due to unfilled positions in accommodation and food services, health care, and retail services,” Royal Bank of Canada economist Carrie Freestone wrote in a new study published Monday.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Freestone later argues that extended lockdowns have led workers in the services sector to leave. Despite higher wages offered, businesses are still facing significant demands. &lt;a href=&#34;https://globalnews.ca/news/8158090/canada-job-shortage-election/&#34; target=&#34;_blank&#34;&gt;Global News&lt;/a&gt; and the &lt;a href=&#34;https://financialpost.com/executive/posthaste-job-vacancies-exceed-800000-in-canadas-labour-starved-services-industries&#34; target=&#34;_blank&#34;&gt;Financial Post&lt;/a&gt; have both published articles regarding the excess of job vacancies in the country. Global News argues that this economic condition was the result of the shortage and poorly enforced COVID-19 government income supports. While the Financial Post argues that government income support have reduced the urgency for many to look for jobs.&lt;/p&gt;
+&lt;p&gt;Nonetheless, both seem to support my theoretical framework. With that established, let’s take a look at the data.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;examining-the-data&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;&lt;strong&gt;Examining the Data&lt;/strong&gt;&lt;/h2&gt;
+&lt;div id=&#34;comparing-the-job-vacancy-rate-and-unemployment-rate&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Comparing the job vacancy rate and unemployment rate:&lt;/h3&gt;
+&lt;center&gt;
+&lt;iframe src=&#34;https://public.tableau.com/views/LabMarket-Graph/JobVacancyRateandUnemploymentRate?:showVizHome=no&amp;amp;:language=en-US&amp;amp;:display_count=n&amp;amp;:origin=viz_share_link&amp;amp;:embed=true&#34; width=&#34;1100&#34; height=&#34;550&#34;&gt;
+&lt;/iframe&gt;
+&lt;/center&gt;
+&lt;p&gt;Using data from Statistics Canada Table &lt;a href=&#34;https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410037201&#34; target=&#34;_blank&#34;&gt;14-10-0372-01&lt;/a&gt; and &lt;a href=&#34;https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410002201&#34; target=&#34;_blank&#34;&gt;14-10-0022-01&lt;/a&gt;, I created the above visualization to compare the monthly job vacancy rate to the unemployment rate by industry. I am using these as proxy measures of labour market demand (the job vacancy rate) and supply (unemployment rate). Therefore in a perfect economy, we expect the job vacancy rate and unemployment rate to equate (ie. all people looking for a job will have a job - ignoring gaps in skill levels required, timing and other anomalies preventing such an phenomenon).&lt;/p&gt;
+&lt;p&gt;First examining all employees in the labour force, we see the market behaving as we expect: there are more unemployed seeking employment then there are jobs available in Canada. Although it is concerning that the job vacancy rate in June 2021 is the highest it has been since October 2020 (seasonally unadjusted).&lt;/p&gt;
+&lt;p&gt;However, focusing on the Accommodation and Food Services [72] sector, we see the industry behaving abnormally. The job vacancy rate is 7.6 percentage points higher than the unemployment rate. This is the largest gap in labour supply / demand of all included NAICS industries.&lt;/p&gt;
+&lt;p&gt;The top three industries with the largest gaps are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Accommodation and Food Services [72] (7.6%)&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;Finance, Insurance, Real Estate, Rental and Leasing [52-53] (6.7%)&lt;/li&gt;
+&lt;li&gt;Business, Building and Other Support Services [55-56] (5.8%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Unfortunately, the two following industries are aggregates and it is harder to determine the cause of imbalance in the market. I hypothesize that the gap in &lt;em&gt;Finance, Insurance, Real Estate, Rental and Leasing [52-53]&lt;/em&gt; is likely dominated by [53], &lt;em&gt;Real Estate, Rental and Leasing&lt;/em&gt;, given the rural movement effect from COVID and lack of building leasing in major cities. However, I do not have a plausible explanation for &lt;em&gt;Business, Building and Other Support Services [55-56]&lt;/em&gt;.&lt;/p&gt;
+&lt;center&gt;
+&lt;iframe src=&#34;https://public.tableau.com/views/LabMarket-BoxandWhiskersPlot/BoxandWhiskersPlot?:showVizHome=no&amp;amp;:language=en-US&amp;amp;:display_count=n&amp;amp;:origin=viz_share_link&amp;amp;:embed=true&#34; width=&#34;1100&#34; height=&#34;550&#34;&gt;
+&lt;/iframe&gt;
+&lt;/center&gt;
+&lt;p&gt;Looking at the distribution in average hourly wage rate across NAICS, there appears to be a strong negative correlation between the job vacancy rate and the wage rate. In fact, I calculated the correlation (&lt;span class=&#34;math inline&#34;&gt;\(\rho\)&lt;/span&gt;) and received a value of -0.73. Therefore, higher wage rates are associated with lower job vacancy rates. This is expected in the labour market. Interestingly, the industry with the highest gap between the unemployment rate and the job vacancy rate also has the lowest average hourly wage rate across NAICS industries. Although this trend does not continue for the other two industries with the largest gaps, I will focus on NAICS 72.&lt;/p&gt;
+&lt;p&gt;Assuming that my theoretical COVID environment initially proposed is correct and that my definitions of labour market supply and demand are (somewhat) accurate, the cost to employment outweighs the benefits. I assume that this is both in terms of wages offered and COVID policy instruments.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;whats-the-solution&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;&lt;strong&gt;What’s the Solution?&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Currently, Canadian businesses are suffering from labour shortages, particularly those associated with higher costs due to the pandemic. In my brief analysis I found that, the industry with the highest job vacancy rate also suffers the lowest average hourly wage and happens to be that most directly impacted by COVID-19, &lt;em&gt;Accomodation and Food Services&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;I chose to focus on this industry given its media popularity and large effect from COVID. Simply put, the benefits do not outweigh the costs to employment. I believe that there are two effects that are causing this:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A substitution effect: people are transitioning to other industries less impacted by COVID-19 and with higher wages.&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;CERB/CRB Effect: the benefits to &lt;em&gt;not&lt;/em&gt; working outweigh that of working due to the CERB/CRB payments collected by the unemployed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;small&gt; Assuming that those who retire, return to school or enter the industry job market do not affect these numbers dramatically. &lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;This is leading to a vicious cycle where employers have lower demand due to the pandemic and an inability to operate at capacity because of the lack of staff, all leading to an inability to increase wages which would correct the latter problem. The former issue should dissipate in the coming months as vaccine enforcement increases and the threat of the pandemic subside. Therefore, the government should be focusing on the labour supply issue rather than demand going forward.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Is CERB/CRB the right solution?&lt;/em&gt; I say, no. It was a great policy instrument to offset the economic shock of the pandemic in March 2020, but now is causing higher costs than benefits. The government should strip back the current COVID income-payment related instruments and introduce incentives to start working, particularly in those most affected by COVID. Whether this is enforced as a supply-side or demand-side instrument, I will not get into right now (but possibly in the future… stay tuned).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Supply-side instruments: Credit to increase wages of first-time hires, finance for more employees, more PPE equipments, etc.&lt;/li&gt;
+&lt;li&gt;Demand-side instruments: Lower the progressive income tax system, negative income tax (although I have not researched the negative effects associated with this)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Either way, the Canadian federal government needs to gravitate away from the COVID-related payments, and towards a system that will lower the costs associated &lt;em&gt;with&lt;/em&gt; working.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hello and Welcome!</title>
+      <link>https://examplesite.org/post/first_post/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/post/first_post/</guid>
+      <description>
+&lt;script src=&#34;https://examplesite.org/post/first_post/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;finally-creating-my-own-site&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Finally creating my own site!&lt;/h2&gt;
+&lt;p&gt;After almost a year of deciding to create a personal website, it has finally come to fruition! After many months of playing around with various website generator platforms (notably Wordpress and Squarespace), I decided to do a 180 and use &lt;code&gt;R Blogdown&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;There are several reasons for this:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Money&lt;/strong&gt;: most website generator platforms cost between &lt;a href=&#34;https://www.websitebuilderexpert.com/building-websites/how-much-should-a-website-cost/&#34; target=&#34;_blank&#34;&gt;$6-50 per month&lt;/a&gt; (for a basic subscription). As a (sort of) student, I want to cut costs where I can.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Skill&lt;/strong&gt;: While I am currently learning how to code HTML (slowly), I am nowhere near the skill necessary to code an entire personal website. That said, while I’m no HTML wiz, I do consider myself quite the R wizard. With a bit of research, a lot of patience and some learning I was able to put together this website. &lt;small&gt; (with many thanks to the various R forums and tutorials on the internet) &lt;/small&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Practicality&lt;/strong&gt;: For the foreseeable future, I plan to be in the field of economic research or applied economics. After seeing many of my mentors and fellow economists develop similar websites, I wanted a platform suitable for research and academia Low and behold, the &lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34;&gt;Hugo Academic&lt;/a&gt; theme! I found many website platforms catered to website platforms for companies and online shops, which is unfortunately unideal for my circumstances.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As I continue developing my programming skills and contribute more to my website, I hope to refine certain elements and customize my site further. Which leads me to my next topic, &lt;em&gt;what is this site for&lt;/em&gt;?&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;using-this-website-to-share-my-research-projects-and-day-to-day-life.&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Using this website to share my research, projects, and day-to-day life.&lt;/h2&gt;
+&lt;p&gt;As a young economist and professional, I want a platform where I can share my research and interests with fellow economists and friends. That said, I am currently at a point in my career where I am exploring fields, economic areas and interests. Having completed my degree from UofT this year, I now have no such setting to “take courses” and learn new material. Therefore, I am taking it into my own hands and using this platform to share new research I develop and, admittedly, hold myself accountable.&lt;/p&gt;
+&lt;p&gt;My goal is to create a new journal posts &lt;em&gt;at least&lt;/em&gt; bi-weekly regarding either personal reflection, economic research or an op-ed on current topics.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
