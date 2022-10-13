@@ -4,8 +4,8 @@ authors:
 avatar_image: headshot.jpg
 bio: My research interests include econometrics, environmental economics and public economics.
 btn:
-- label: Download Resume (as of July 2022)
-  url: https://drive.google.com/file/d/1qOFUQNYmF-XHS8rUU-I4wbvAzmsK_TRf/view?usp=sharing
+- label: Download Resume (as of October 2022)
+  url: "/files/AyakaBehro_resume_Oct2022.pdf"
 display_education: true
 education:
   courses:
@@ -22,9 +22,9 @@ interests:
 - Public Economics
 name: Ayaka Behro
 organizations:
-- name: Finances of the Nation
+- name: University of Waterloo
   url: "https://financesofthenation.ca/"
-role: Research Associate
+role: Masters of Economics Student
 social:
 - icon: envelope
   icon_pack: fas
@@ -41,6 +41,8 @@ user_groups:
 - Visitors
 ---
 
-I am a Masters student at the University of Waterloo studying economics. Prior to my Masters education, I spent several years in the field working as a Research Associate in academia and as a Economic Advisor for the Ontario Public Service. Having experience in my field, I have gained experience in applying my undergraduate economics education to practice and have narrowed my career aspirations. My goal is to finish my Masters degree in June 2023 and enter the field of economic consulting or economic policy research.
+Hello and welcome to my website!
 
-This website encompasses my resume (available in both PDF and HTML format), my interests which are illustrated in my Journal, and my publications. In my free time, I hope to contribute more to my Journal and finalize projects which are currently in the works. Please feel free to reach out to me via email, twitter or linkedin.
+I am a Masters of Economics student at the University of Waterloo, with a particular interest in economic research and data analysis. Prior to my Masters education, I worked in the field for several years as a Research Associate in academia and as a Economic Advisor for the Ontario Public Service. This experience, in culmination with my Masters education, have inspired me to work in applied economic research and/or economic policy analysis.
+
+This website delves into my resume (available in both PDF and HTML format), my interests which are illustrated in my Journal, and my publications. In my free time, I hope to contribute more to my Journal and finalize projects which are currently in the works. Please feel free to reach out to me via email, twitter or Linkedin.
