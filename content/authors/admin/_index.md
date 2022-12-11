@@ -4,8 +4,8 @@ authors:
 avatar_image: headshot.jpg
 bio: My research interests include econometrics, environmental economics and public economics.
 btn:
-- label: Download Resume (as of October 2022)
-  url: "/files/AyakaBehro_resume_Oct2022.pdf"
+- label: Download Resume (as of December 2022)
+  url: "/files/resume.pdf"
 display_education: true
 education:
   courses:
