@@ -4,7 +4,7 @@ authors:
 avatar_image: headshot.jpg
 bio: My research interests include econometrics, environmental economics and public economics.
 btn:
-- label: Download Resume (as of December 2022)
+- label: Download Resume
   url: "/files/resume.pdf"
 display_education: true
 education:
@@ -23,7 +23,7 @@ interests:
 name: Ayaka Behro
 organizations:
 - name: University of Waterloo
-  url: "https://financesofthenation.ca/"
+  url: "https://uwaterloo.ca/economics/graduate/ma-students-2022-2023"
 role: Masters of Economics Student
 social:
 - icon: envelope

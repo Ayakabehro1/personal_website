@@ -44,6 +44,8 @@ subtitle = ""
  css_class = ""
 +++
 
+Behro, A, and M. Smart. 2022. “Finances of the Nation: The Impact of Covid-19 on Provincial and Local Government Finances.” Canadian Tax Journal/Revue Fiscale Canadienne 70 (3): 643–57. doi:10.32721/ctj.2022.70.3.fon. ([PDF](https://www.ctf.ca/CTFWEB/Documents/CTJ%202022/Issue%203/Public/643_Public-2022CTJ3-FON.pdf)) ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4266036))
+
 **Finances of the Nation**
 - [Will Federal Finances Improve This Year?](https://financesofthenation.ca/2021/12/13/federal-finances-monitor/) (December 13, 2021; cowritten)
 - [Unpacking the Conservative Party's proposal to boost health transfers to the provinces](https://financesofthenation.ca/2021/08/24/unpacking-the-conservative-partys-proposal-to-boost-health-transfers-to-the-provinces/) (August 24, 2021; cowritten)
